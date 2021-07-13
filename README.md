@@ -62,7 +62,3 @@ const uiConfig = {
   .......
 };
 ```
-##  Credits
- - [yanzai](https://github.com/yanzai/goindex)
- - [sawankumar](https://github.com/sawankumar)
- - [5MayRain](https://github.com/5MayRain)
