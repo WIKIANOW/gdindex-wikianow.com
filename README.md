@@ -1,10 +1,5 @@
-![Preview](https://raw.githubusercontent.com/cheems/GDIndex/master/images/preview.png)
 # Google Drive Index + Dark mode
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ![GitHub repo size](https://img.shields.io/github/repo-size/cheems/GDIndex) [![Generic badge](https://img.shields.io/badge/Author-cheems-blue.svg)](https://shields.io/)
-
-Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and [Google Drive](https://www.google.com/drive/) will allow you to index your files on the browser on Cloudflare Workers. 
-
-This theme's goindex is currently based on [yanzai/goindex](https://github.com/yanzai/goindex/)
+![Preview](https://raw.githubusercontent.com/cheems/GDIndex/master/images/preview.png)
 ## Features
  
  - Video Player - | mp4 | webm | avi | mpg | mpeg | mkv | rm | rmvb | mov | wmv | asf | ts | flv
