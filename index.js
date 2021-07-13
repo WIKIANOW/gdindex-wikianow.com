@@ -1,6 +1,6 @@
 const authConfig = {
   "siteName": "GDIndex", // WebSite Name
-  "siteIcon": "https://raw.githubusercontent.com/cheems/GDIndex/master/images/favicon.png",
+  "siteIcon": "https://cdn.jsdelivr.net/gh/WIKIANOW/gdindex-wikianow.com@3f7b1a3/images/favicon.png",
   "version": "4.28", // VersionControl, do not modify manually
 // client_id & client_secret - PLEASE USE YOUR OWN!
   "client_id": "", // Client ID
@@ -120,7 +120,7 @@ function html(current_drive_order = 0, model = {}) {
     window.current_drive_order = ${current_drive_order};
     window.UI = JSON.parse('${JSON.stringify(uiConfig)}');
   </script>
-  <script src="https://rawcdn.githack.com/cheems/GDIndex/a3c286b2d4615f2ffb546e135c5ed41e76ced622/app.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/WIKIANOW/gdindex-wikianow.com@3f7b1a3087141b888205c9c1556e8c48f95d68e1/app.js"></script>
 </head>
 <body>
 </body>
